@@ -16,6 +16,13 @@ This repo consists of 2 .ipynb files -
 
 I have highlighed the cases where model is going wrong in predicting the gender of the person in image. These are all the cases where the person in the image is kid. For kids even we as humans cannot define the gender of the kid by looking at face.
 
+I have used the libraries -
+- OpenCV for image processing
+- FER for face detection
+- Matplotlib to load and process image data
+- numpy to process image data in the form of numpy arrays
+- Keras for model building and saving the model
+
 Gender prediction models can be utilized in various real-time applications, including:
 - Marketing and Advertising: Tailoring ads based on predicted gender to enhance engagement and conversion rates.
 - Social Media Platforms: Enhancing user experience by personalizing content and recommendations based on gender insights.
