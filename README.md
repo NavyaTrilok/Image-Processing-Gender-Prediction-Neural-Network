@@ -11,8 +11,8 @@ To normalize the imput date
 Model is trained on 5 hidden layers with 1,102,902 Trainable parameters
 
 This repo consists of 2 .ipynb files -
-- For Training and evaluation of the model and saved the model
-- For image processing of test image and predicting the gender of the person in image
+- Gender-Prediction-Model.ipynb - For Training and evaluation of the model and saved the model
+- Testing-Gender.ipynb - For image processing of test image and predicting the gender of the person in image
 
 I have highlighed the cases where model is going wrong in predicting the gender of the person in image. These are all the cases where the person in the image is kid. For kids even we as humans cannot define the gender of the kid by looking at face.
 
