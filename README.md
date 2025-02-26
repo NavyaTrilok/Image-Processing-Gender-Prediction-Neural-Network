@@ -10,6 +10,12 @@ To normalize the imput date
 
 Model is trained on 5 hidden layers with 1,102,902 Trainable parameters
 
+This repo consists of 2 .ipynb files -
+- For Training and evaluation of the model and saved the model
+- For image processing of test image and predicting the gender of the person in image
+
+I have highlighed the cases where model is going wrong in predicting the images of the person. These are all the cases where the person in the image is kid. For kids even we as humans cannot define the gender of the kid by looking at face.
+
 Gender prediction models can be utilized in various real-time applications, including:
 - Marketing and Advertising: Tailoring ads based on predicted gender to enhance engagement and conversion rates.
 - Social Media Platforms: Enhancing user experience by personalizing content and recommendations based on gender insights.
