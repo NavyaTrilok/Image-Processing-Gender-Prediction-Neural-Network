@@ -43,3 +43,6 @@ Gender prediction models using image processing can be applied in several real-t
 <img width="136" alt="image" src="https://github.com/user-attachments/assets/d5f20cab-7ea1-41e3-973e-433a00afd7cf" />
 
 
+<img width="213" alt="image" src="https://github.com/user-attachments/assets/20b8b259-7f00-4809-b2c2-d9e3c48449c4" />
+
+
