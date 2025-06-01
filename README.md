@@ -32,3 +32,14 @@ Gender prediction models using image processing can be applied in several real-t
 - Facial Recognition Systems: Improving accuracy in identifying and categorizing individuals in security and access control applications.
 - Autonomous Vehicles: Enhancing passenger interaction systems by predicting gender for more personalized experiences.
 - Gaming: Adapting character designs or narratives based on the perceived gender of players through their avatars or images.
+
+
+**Final predictions**
+
+<img width="153" alt="image" src="https://github.com/user-attachments/assets/71ab8c41-aecd-4961-9a51-33c6085df7b9" />
+
+<img width="145" alt="image" src="https://github.com/user-attachments/assets/b1dfe9a2-9498-429d-93bf-16ccd5333685" />
+
+<img width="136" alt="image" src="https://github.com/user-attachments/assets/d5f20cab-7ea1-41e3-973e-433a00afd7cf" />
+
+
